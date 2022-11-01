@@ -1,0 +1,23 @@
+textarea {
+  width: 50%;
+  height: 20%;
+  resize: vertical;
+}
+
+.phone {
+  color: maroon;
+  margin-right: 1em;
+}
+
+.phone:hover {
+  cursor: pointer;
+}
+
+#container {
+  margin-top: 1em;
+  font-size: 2rem;
+}
+
+.line-wrapper {
+  margin-bottom: 1em;
+}
